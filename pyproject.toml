@@ -9,6 +9,7 @@ authors = [
 requires-python = ">=3.12"
 dependencies = [
 	'click',
+	"prettytable>=3.16.0",
 	'tinydb',
 ]
 
